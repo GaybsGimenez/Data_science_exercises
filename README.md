@@ -1,2 +1,2 @@
-# Dat_science_exercises
+# Data_science_exercises
 data science course exercises_EBAC
